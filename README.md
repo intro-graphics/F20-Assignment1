@@ -76,11 +76,7 @@ Unfortunately, web developers in practice have to do that fake server thing pret
 
    ![url bar](docs/image-10.png)
 
-9. Press F1 to open settings, and choose ``Default indentation: 2 spaces``.  Close settings.
-   
-   * This is just so you won't be prevented from matching our formatting.
-
-These steps, and the following ones, may seem like a lot of work but they are part of becoming a real web developer with a good workflow, as opposed to someone who just knows the language.  The biggest key of all to becoming a good developer is actually going be mastering the **debugger** feature, but first for this assignment let's just take it slow and set up our editor.
+These steps and the following ones, may seem like a lot of work, but they are part of becoming a real web developer with a good workflow, as opposed to someone who just knows the language.  The biggest key of all to becoming a good developer is actually going be mastering the **debugger** feature, but first for this assignment let's just take it slow and set up our editor.
 
 
 ### Step 4:  Continue the next steps to begin modifying:
